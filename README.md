@@ -1,7 +1,7 @@
 # Airline-Reservation-System-Java-GUI
 
 ## Overview
-This Java Swing project simulates a simple **airline reservation system**, allowing users to:
+This Java Swing project simulates a simple **Airline Reservation System**, allowing users to:
 
 - Input their name, gender, age, and phone number.
 - Choose an airline:
@@ -20,7 +20,7 @@ All steps are displayed in separate GUI windows, and input validation is include
 
 
 ## Files Included            
-- `ReservationSystemGUI.java`: main source code (includes all GUI logic)
+- `AirlineReservationSystemGUI.java`: main source code (includes all GUI logic)
 - `SkyTimes.txt` : Contains flight times for Sky Airline   
 - `FlyTimes.txt` : Contains flight times for Fly Airline   
 - `RECEIPT.txt` :Output file generated after booking      
